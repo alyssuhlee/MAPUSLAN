@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Mapuslan</string>
+
+    <!-- Titles -->
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_nav_bar">NavBarActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_point_list">Material-Points Conversion</string>
+
+    <!-- Text -->
+    <string name="user_type_prompt">Are you a</string>
+    <string name="login_here">Log in here</string>
+    <string name="signup_here">Sign up here</string>
+    <string name="choose_waste">Choose Waste Category</string>
+    <string name="collected_materials_prompt">Collected materials from:</string>
+    <string name="enter">Enter</string>
+    <string name="qr_code">QR Code</string>
+    <string name="crafter">Crafter</string>
+    <string name="header_material">Recyclable type</string>
+    <string name="header_points">Points per kg</string>
+    <string name="user_points_prompt">Your Points: </string>
+    <string name="run_model">Running the model...</string>
+    <string name="image_view">Image View</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+
+    <!-- Button -->
+    <string name="btn_login">Log in</string>
+    <string name="btn_signup">Sign up</string>
+    <string name="logout_button">Log out</string>
+    <string name="btn_materials">Material-Points Conversion</string>
+    <string name="detect">Detect</string>
+    <string name="select">Select Image Option</string>
+    <string name="live">Live</string>
+    <string name="upload">Upload</string>
+
+</resources>

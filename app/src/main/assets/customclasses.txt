@@ -1,0 +1,7 @@
+glass
+paper
+cardboard
+plastic
+metal
+non-recyclable
+biodegradable
